@@ -25,14 +25,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
   <img width="10" /><br><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GabrielWeidlich/GabrielWeidlich/blob/output/github-contribution-grid-snake-dark.svg?v=20250409" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GabrielWeidlich/GabrielWeidlich/blob/output/github-contribution-grid-snake.svg?v=20250409" />
+  <img alt="github-snake" src="https://github.com/GabrielWeidlich/GabrielWeidlich/blob/output/github-contribution-grid-snake.svg?v=20250409" />
+</picture>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=27&letterSpacing=0.1rem&duration=3000&pause=1000&color=A191DA&center=true&vCenter=true&repeat=false&width=435&lines=Contate-me;Contact+me)](https://git.io/typing-svg)<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-weidlich-/" target="blank">
+  <a href="https://www.linkedin.com/in/Gabriel-weidlich-/" target="blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%236e40c9?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:gabrielweidlichanaps@gmail.com" target="_blank">
+  <a href="mailto:Gabrielweidlichanaps@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%236e40c9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/gabriel_dlich" target="blank">
+  <a href="https://instagram.com/Gabriel_dlich" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-%236e40c9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
