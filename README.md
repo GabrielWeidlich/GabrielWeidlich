@@ -6,10 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=27&letterSpacing=0.1rem&duration=10000&pause=2000&color=A191DA&center=true&vCenter=true&repeat=false&width=435&lines=.NET+%2B+Node.js+%26+React)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="10" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react logo" height="40"/>     
@@ -19,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40"/>
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
   <img width="10" /><br><br>
