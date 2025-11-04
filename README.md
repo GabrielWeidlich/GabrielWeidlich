@@ -3,10 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6615a3,100:49077a" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=40&letterSpacing=0.1rem&duration=2000&pause=50&color=5F3CDA&center=true&vCenter=true&repeat=false&width=435&lines=Gabriel+Weidlyz%7C;Gabriel+Weidlich+Sanx%7C;Gabriel+Weidlich+Santos)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=27&letterSpacing=0.1rem&duration=10000&pause=2000&color=A191DA&center=true&vCenter=true&repeat=false&width=435&lines=.NET+%2B+Node.js+%26+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geo&size=27&duration=800&pause=900&color=A191DA&center=true&multiline=true&width=435&height=73&lines=Python+%26+.NET;Backend+Developer)](https://git.io/typing-svg)
 
 <div align="center">
- 
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="40" alt="python logo"/>
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react logo" height="40"/>     
@@ -14,7 +17,9 @@
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"  alt="react logo" height="40"/>     
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40"/>
-  <img width="10" />
+  <img width="10" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
+  <img width="10" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/>
