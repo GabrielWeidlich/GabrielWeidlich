@@ -41,9 +41,6 @@
   <a href="https://instagram.com/Gabriel_dlich" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-%236e40c9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://gabrielweidlich.github.io/Portfolio/" target="blank">
-    <img src="https://img.shields.io/badge/-Meu portfólio-%236e40c9?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
   
 </div>
 
