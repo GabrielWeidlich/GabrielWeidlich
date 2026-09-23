@@ -41,7 +41,9 @@
   <a href="https://instagram.com/Gabriel_dlich" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-%236e40c9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  
+  <a href="https://gabriel-portfolio-kappa-five.vercel.app" target="blank">
+    <img src="[https://img.shields.io/badge/-Instagram-%236e40c9?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Portfolio-Website-0A0A0A?logo=googlechrome&logoColor=white)" target="_blank">
+  </a>
 </div>
 
 
